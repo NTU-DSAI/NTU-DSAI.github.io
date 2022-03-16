@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdsai_blog=self.webpackChunkdsai_blog||[]).push([[139],{1259:function(o){o.exports=JSON.parse('{"allTagsPath":"/DSAI-Blog/blog/tags","slug":"/DSAI-Blog/blog/tags/facebook","name":"facebook","count":1,"permalink":"/DSAI-Blog/blog/tags/facebook"}')}}]);
