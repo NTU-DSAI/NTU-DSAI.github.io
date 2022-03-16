@@ -9,7 +9,7 @@ const config = {
   title: "DSAI-Blog",
   tagline: "Your Guide to DSAI",
   url: "https://NTU-DSAI.github.io",
-  baseUrl: "/DSAI-Blog/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
