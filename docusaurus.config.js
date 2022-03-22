@@ -23,11 +23,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/NTU-DSAI/DSAI-Blog/tree/master/docs",
+          editUrl: "https://github.com/NTU-DSAI/DSAI-Blog/tree/master",
         },
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/NTU-DSAI/DSAI-Blog/tree/master/blog",
+          editUrl: "https://github.com/NTU-DSAI/DSAI-Blog/tree/master",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
