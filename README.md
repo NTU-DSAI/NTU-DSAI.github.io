@@ -29,7 +29,7 @@ This command starts a local development server and opens up a browser window. Mo
 
 ## Contributing
 
-This repository is actively seeking projects from students. Please read this document carefully before contributing.
+This repository is actively seeking contributions from students. Please read this document carefully before contributing.
 
 ### Installation instructions
 
@@ -47,7 +47,7 @@ pre-commit install
 
 ### Pull Requests
 
-Please submit the links to your project by forking the repository and adding your changes in as few commits as possible. Please follow the structure in the sample directory. **Pull requests that do not follow these instructions will not be accepted.**
+Please add content to the project by forking the repository and adding your changes in as few commits as possible. **Pull requests that do not follow these instructions will not be accepted.**
 
 ### Branch Naming
 
