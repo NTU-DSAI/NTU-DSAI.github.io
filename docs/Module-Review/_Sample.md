@@ -8,12 +8,6 @@ title: Course Code And Title With Spaces and Every Word Capitalised
 # Ensure that the filename follows the title: MH1805 Discrete Mathematics.md
 ---
 
-- [Course Summary](#course-summary)
-- [Workload](#workload)
-- [Projects](#projects)
-- [Things to take note of](#things-to-take-note-of)
-- [Conclusion](#conclusion)
-
 ## Course Summary
 
 Text

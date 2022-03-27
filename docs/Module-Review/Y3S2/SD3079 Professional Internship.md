@@ -4,12 +4,6 @@ sidebar_position: 1
 title: SD3079 Professional Intership
 ---
 
-- [Course Summary](#course-summary)
-- [Workload](#workload)
-- [Projects](#projects)
-- [Things to take note of](#things-to-take-note-of)
-- [Conclusion](#conclusion)
-
 ## Course Summary
 
 This module is a compulsory module for all DSAI students that seeks to impart industry knowledge into the students and give real world work experience. Students choose can choose to work with a company that they have found themselves (self-sourced) or with one from NTU's career portal [inPlace](https://inplace.ntu.edu.sg).
