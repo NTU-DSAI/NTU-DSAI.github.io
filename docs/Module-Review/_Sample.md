@@ -1,5 +1,6 @@
 ---
 id: course-code-and-course-title-as-a-slug-in-lowercase
+slug: course-code-and-course-title-as-a-slug-in-lowercase
 # mh1805-discrete-mathematics
 sidebar_position: 1
 # Check to ensure that there are no conflicts for sidebar_position
