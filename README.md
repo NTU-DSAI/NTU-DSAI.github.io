@@ -1,8 +1,8 @@
-# DSAI-Blog
+# DSAI-Docs
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/NTU-DSAI/DSAI-Blog/master.svg?)](https://results.pre-commit.ci/latest/github/NTU-DSAI/DSAI-Blog/master) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/NTU-DSAI/NTU-DSAI.github.io/Deploy%20to%20GitHub%20Pages?label=Deploy%20to%20GH%20pages&logo=github) [![GitHub issues](https://img.shields.io/github/issues/NTU-DSAI/NTU-DSAI.github.io?logo=github)](https://github.com/NTU-DSAI/NTU-DSAI.github.io/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr/NTU-DSAI/NTU-DSAI.github.io?logo=github)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/NTU-DSAI/NTU-DSAI.github.io/master.svg?)](https://results.pre-commit.ci/latest/github/NTU-DSAI/NTU-DSAI.github.io/master) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/NTU-DSAI/NTU-DSAI.github.io/Deploy%20to%20GitHub%20Pages?label=Deploy%20to%20GH%20pages&logo=github) [![GitHub issues](https://img.shields.io/github/issues/NTU-DSAI/NTU-DSAI.github.io?logo=github)](https://github.com/NTU-DSAI/NTU-DSAI.github.io/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr/NTU-DSAI/NTU-DSAI.github.io?logo=github)
 
-- [DSAI-Blog](#dsai-blog)
+- [DSAI-Docs](#dsai-docs)
   - [Installation](#installation)
   - [Local Development](#local-development)
   - [Contributing](#contributing)

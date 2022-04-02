@@ -7,6 +7,7 @@ sidebar_position: 1
 title: Course Code And Title With Spaces and Every Word Capitalised
 # MH1805 Discrete Mathematics
 # Ensure that the filename follows the title: MH1805 Discrete Mathematics.md
+description: A few words to describe what the content of the page is
 ---
 
 ## Course Summary

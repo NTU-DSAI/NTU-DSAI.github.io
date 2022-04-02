@@ -3,6 +3,7 @@ id: ee8086-astronomy
 slug: ee8086-astronomy
 sidebar_position: 1
 title: EE8086 Astronomy
+description: Study of stars, galaxies and other astronomy topics.
 ---
 
 ## Course Summary
