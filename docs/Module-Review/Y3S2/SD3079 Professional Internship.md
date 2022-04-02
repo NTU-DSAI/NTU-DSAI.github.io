@@ -49,7 +49,7 @@ Since you are not expected to have all the knowledge going into the role, your m
 
 5. Know your worth. The minimum Allowance recommended by the school is $1000 and some companies are intent on sticking as close to that amount as possible. Based on an analysis of job listings on inPlace, most internships offer between $1200-$1500. However, feel free to negotiate with the company. Big Tech like Amazon and Shopee offer up to $4000 but their requirements are just as high.
 
-   ![analysis of job listings on inPlace](https://media-exp1.licdn.com/dms/image/C5622AQE5RiavBnfONw/feedshare-shrink_800/0/1630462925595?e=1651104000&v=beta&t=UfyGEJS-VyhgKhw5PMv9-13JGe7YgdYVDJJ3MHnuctI)
+   ![analysis of job listings on inPlace](./../../../static/img/docs/module-review/y3s2/professional-internship/Job%20Listing%20Analysis.jpeg)
 
 6. Practice LeetCode or HackerRank or any other such Coding Test problem site. Having knowledge of your Data Structures and Algorithms is such a key factor in the decision process of many companies. Writing efficient code is as important of a skill as it gets.
 

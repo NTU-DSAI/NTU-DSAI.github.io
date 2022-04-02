@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "DSAI-Blog",
+  title: "NTU-DSAI",
   tagline: "Your Guide to DSAI",
   url: "https://NTU-DSAI.github.io",
   baseUrl: "/",
@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "NTU-DSAI",
-  projectName: "DSAI-Blog",
+  projectName: "NTU-DSAI.github.io",
 
   presets: [
     [
@@ -23,11 +23,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/NTU-DSAI/DSAI-Blog/tree/master",
+          editUrl: "https://github.com/NTU-DSAI/NTU-DSAI.github.io/tree/master",
         },
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/NTU-DSAI/DSAI-Blog/tree/master",
+          editUrl: "https://github.com/NTU-DSAI/NTU-DSAI.github.io/tree/master",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -40,7 +40,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "DSAI Blog",
+        title: "NTU DSAI",
         logo: {
           alt: "NTU Logo",
           src: "img/ntu-logo.svg",

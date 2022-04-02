@@ -3,6 +3,7 @@ id: mh3510-regression-analysis
 slug: mh3510-regression-analysis
 sidebar_position: 1
 title: MH3510 Regression Analysis
+description: Study of relationship between predictor and response variables
 ---
 
 ## Course Summary
