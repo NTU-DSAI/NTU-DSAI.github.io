@@ -2,7 +2,7 @@
 
 ## Contribution
 
-List of subjects added:
+List of items added:
 
 - Item 1
 
