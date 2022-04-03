@@ -19,7 +19,7 @@ The kind of projects that you will undertake will depend on the business require
 
 Since you are not expected to have all the knowledge going into the role, your mentors will be more than happy to help you out in the event that you are stuck. There will be a lot of self learning involved as you will be exposed to tech stacks that are not taught in school such as:
 
-<!-- Seniors, please add in some more tech stacks that you have used -->
+<!-- TODO: Seniors, please add in some more tech stacks that you have used -->
 
 - React
 - Django
