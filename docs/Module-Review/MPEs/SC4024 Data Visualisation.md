@@ -1,8 +1,8 @@
 ---
-id: cz4124-data-visualisation
-slug: cz4124-data-visualisation
-sidebar_position: 2
-title: CZ4124 Data Visualisation
+id: sc4024-data-visualisation
+slug: sc4024-data-visualisation
+sidebar_position: 20
+title: SC4024 Data Visualisation
 description: Designing effective visualisations to explain data intuitively
 ---
 
