@@ -3,6 +3,7 @@ id: cz4124-data-visualisation
 slug: cz4124-data-visualisation
 sidebar_position: 2
 title: CZ4124 Data Visualisation
+description: Designing effective visualisations to explain data intuitively
 ---
 
 ## Course Summary
