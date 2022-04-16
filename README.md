@@ -29,7 +29,7 @@ This command starts a local development server and opens up a browser window. Mo
 
 ## Contributing
 
-This repository is actively seeking contributions from students. Please read this document as well as the [project page](https://github.com/NTU-DSAI/NTU-DSAI.github.io/projects/1) carefully before contributing.
+This repository is actively seeking contributions from students. Please read this document carefully before contributing.
 
 ### Installation instructions
 
