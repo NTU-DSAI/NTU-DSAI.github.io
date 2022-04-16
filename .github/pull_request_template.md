@@ -8,7 +8,7 @@ List of items added:
 
 ## Checklist
 
-Tick where appropriate
+Tick/delete where appropriate
 
 ### Docs
 
