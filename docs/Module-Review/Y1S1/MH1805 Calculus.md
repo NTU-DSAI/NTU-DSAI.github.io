@@ -20,7 +20,7 @@ No projects.
 
 ## Things to take note of
 
-The content covered in this course is quite challenging, and there is a lot of new mathematical notation and ideas that are introduced. Students are taught to think and prove mathematical ideas rigorously. This can be a challenging learning curve, but is also one that makes subsequent math modules (like MH2100 Calculus III) more manageable.
+The content covered in this course is quite challenging, and there is a lot of new mathematical notation and ideas that are introduced. Students are taught to think and prove mathematical ideas rigorously. This can be a challenging learning curve, but is also one that makes subsequent math modules (like [MH2100 Calculus 3](<../Y3S1/MH2100 Calculus 3.md>)) more manageable.
 
 ## Conclusion
 
