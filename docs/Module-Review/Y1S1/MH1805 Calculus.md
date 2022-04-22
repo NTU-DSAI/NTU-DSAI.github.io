@@ -8,7 +8,17 @@ description: Introductory calculus course.
 
 ## Course Summary
 
-This is a course that covers a good deal of concepts relating to calculus, from basics like limits and first principles, to concepts that are most likely new, like Taylor series approximations and big-o notation.
+This is a course that covers a good deal of concepts relating to calculus, from basics like limits and first principles, to concepts that are most likely new, like Taylor series approximations and big-o notation. The specific topics that are covered are:
+
+1. Sets
+2. Functions
+3. Limits
+4. Derivatives
+5. Integrals
+6. Differenital Equations
+7. Series
+8. Taylor Series
+9. Power Series
 
 ## Workload
 
@@ -20,7 +30,7 @@ No projects.
 
 ## Things to take note of
 
-The content covered in this course is quite challenging, and there is a lot of new mathematical notation and ideas that are introduced. Students are taught to think and prove mathematical ideas rigorously. This can be a challenging learning curve, but is also one that makes subsequent math modules (like [MH2100 Calculus 3](<../Y3S1/MH2100 Calculus 3.md>)) more manageable.
+The content covered in this course is quite challenging, and there is a lot of new mathematical notation and ideas that are introduced. Students are taught to think and prove mathematical ideas rigorously. This can be a challenging learning curve, but is also one that makes subsequent math modules (like [MH2100 Calculus 3](../Y3S1/MH2100%20Calculus%203.md)) more manageable.
 
 ## Conclusion
 

@@ -8,7 +8,15 @@ description: Introductory computer science module, covering the basics of Python
 
 ## Course Summary
 
-This module is an introductory module for computer science students, covering basic idea of computing and an introduction to Python.
+This module is an introductory module for computer science students, covering basic idea of computing and an introduction to Python. The course content is as follows:
+
+1. Programming Languages
+2. Basic Internal Operations of Computers
+3. Basic Program Structure
+4. Abstraction
+5. Decomposition
+6. Pattern Recognition
+7. Algorithm Design and Complexity
 
 ## Workload
 
