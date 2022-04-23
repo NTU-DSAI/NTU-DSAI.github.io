@@ -5,6 +5,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./index.module.css";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import Head from "@docusaurus/Head";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -30,6 +31,12 @@ export default function Home(): JSX.Element {
       title={`Hello from ${siteConfig.title}`}
       description="Your one stop DSAI shop"
     >
+      <Head>
+        <meta
+          name="google-site-verification"
+          content="NBFw0SxYNhjJdvmjg3W0mpN6aOQabq6YJFLa7wRChSM"
+        />
+      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
