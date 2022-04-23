@@ -4,6 +4,7 @@ slug: sc4003-computer-vision
 sidebar_position: 1
 title: SC4003 Computer Vision
 description: Understand how computers can see and draw information from the real world
+keywords: [computer vision, cv, ntu, module, course]
 ---
 
 ## Course Summary

@@ -4,6 +4,7 @@ slug: mh1805-calculus
 sidebar_position: 3
 title: MH1805 Calculus
 description: Introductory calculus course.
+keywords: [calculus, introduction, ntu, spms, course, module]
 ---
 
 ## Course Summary

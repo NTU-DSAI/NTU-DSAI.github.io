@@ -4,6 +4,7 @@ slug: ps9886-making-and-tinkering-lite
 sidebar_position: 1
 title: PS9886 Making and Tinkering Lite
 description: A course on making 3D printers and models
+keywords: [making, tinkering, ntu, spms, course, module]
 ---
 
 ## Course Summary

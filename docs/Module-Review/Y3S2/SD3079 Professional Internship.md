@@ -3,6 +3,8 @@ id: sd-3079-professional-internship
 slug: sd-3079-professional-internship
 sidebar_position: 1
 title: SD3079 Professional Intership
+description: A 6 month internship program at a company
+keywords: [internship, ntu, course, module, pi, work, tech]
 ---
 
 ## Course Summary

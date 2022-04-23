@@ -4,6 +4,7 @@ slug: sc1003-introduction-to-computational-thinking
 sidebar_position: 5
 title: SC1003 Introduction to Computational Thinking
 description: Introductory computer science module, covering the basics of Python.
+keywords: [computational thinking, introduction, spms, course, module]
 ---
 
 ## Course Summary

@@ -3,6 +3,7 @@ id: wee-kim-wee
 sidebar_position: 1
 title: Wee Kim Wee
 description: General overview of WKWSCI modules
+keywords: [wkw, wkwsci, wee kim wee, ntu, course, module]
 ---
 
 ```mdx-code-block

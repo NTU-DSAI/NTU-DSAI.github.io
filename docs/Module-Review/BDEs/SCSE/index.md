@@ -3,6 +3,7 @@ id: computer-science-and-engineering
 sidebar_position: 1
 title: Computer Science and Engineering
 description: General overview of SCSE modules
+keywords: [scse, ntu, course, module]
 ---
 
 ```mdx-code-block

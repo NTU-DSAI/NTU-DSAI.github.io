@@ -4,6 +4,7 @@ slug: mh1812-discrete-mathematics
 sidebar_position: 4
 title: MH1812 Discrete Mathematics
 description: Introductory math module covering number theory and logic.
+keywords: [discrete, mathematics, ntu, course, spms, module]
 ---
 
 ## Course Summary

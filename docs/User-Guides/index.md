@@ -2,6 +2,7 @@
 id: user-guides
 title: User Guides
 description: General overview of User Guides
+keywords: [user, guide, ntu, course, registration, software]
 ---
 
 This section aims to help future students understand how to use key NTU infrastructure and apps to reduce friction as a freshman.

@@ -4,6 +4,7 @@ slug: sc4024-data-visualisation
 sidebar_position: 20
 title: SC4024 Data Visualisation
 description: Designing effective visualisations to explain data intuitively
+keywords: [data, visualisation, ntu, scse, module, course]
 ---
 
 ## Course Summary

@@ -2,6 +2,7 @@
 id: module-review
 title: Module Review
 description: General Overview of Module Review
+keywords: [module, review, curriculum, structure, course, ntu]
 ---
 
 This section aims to help future students understand what they can expect from modules based on the experiences of their seniors.

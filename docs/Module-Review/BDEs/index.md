@@ -3,6 +3,7 @@ id: bdes
 sidebar_position: 1
 title: BDEs
 description: General overview of BDEs
+keywords: [bde, broadening deepening elective, elective, module, course, ntu]
 ---
 
 Broadening and Deepening Electives (BDEs) and Unrestricted Electives (UEs) are courses taken by students that are outside their current field to give the student a wholistic education. These can also be taken by the student if they choose to study courses that are MPEs of courses other than their own in the same school.

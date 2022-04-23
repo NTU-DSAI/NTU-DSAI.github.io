@@ -4,6 +4,7 @@ slug: cs888-ai-and-the-law
 sidebar_position: 1
 title: CS8888 AI and the Law
 description: Study of legal implication of tech on society
+keywords: [ai, law, ntu, course, module, tech]
 ---
 
 ## Course Summary

@@ -4,6 +4,19 @@ slug: wsdp
 sidebar_position: 1
 title: Work Study Degree Programme
 description: Extended Work Experience and Industry FYP Programme
+keywords:
+  [
+    work,
+    study,
+    degree,
+    programme,
+    wsdeg,
+    skillsfuture,
+    ntu,
+    cao,
+    course,
+    module,
+  ]
 ---
 
 ## Introduction
