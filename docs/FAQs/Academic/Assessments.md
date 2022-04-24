@@ -3,7 +3,7 @@ id: assessments
 slug: assessments
 sidebar_position: 1
 title: Assessments
-description: Questions Assessments in DSAI
+description: Questions about Assessments in DSAI
 keywords: [academic, questions, answer, faq, dsai]
 ---
 
@@ -50,3 +50,11 @@ Regarding having the same grades as ur group members, usually the Prof/TA(teachi
 ### What if I am unable to cope with my studies?
 
 The professors do have consultation time slots which they will announce during the first lecture where you can go down to their office for any questions you may have. There are also peer tutoring sessions every week organised by the school. In DSAI, all the seniors are very helpful so do not be afraid to ask a senior for help!
+
+### Do I get to choose my own groupmates?
+
+It depends on the module but generally you can choose your groupmates.
+
+### What are some examples of projects done by DSAI students?
+
+Generally the projects follow the topics of the course. For [Intro to Data Science](../../Module-Review/Y1S2/SC1015%20Introduction%20to%20Data%20Science%20and%20AI.md), you will have to make prediction models on a given dataset of your choice while for [Software Engineering](../../Module-Review/Y2S1/SC2006%20Software%20Engineering.md), you will have to create a web/mobile app using a toolkit of your choosing. You can check out the projects repository [here](https://github.com/NTU-DSAI/DSAI-Projects) for a full list of projects done thus far.

@@ -1,7 +1,7 @@
 ---
 id: majors-minors
 slug: majors-minors
-sidebar_position: 4
+sidebar_position: 3
 title: Majors, Minors and Extra Degrees
 description: Questions about Complementary Degrees to DSAI
 keywords: [academic, questions, answer, faq, dsai]
