@@ -13,7 +13,7 @@
     - [Commit Messages](#commit-messages)
     - [Additional Pointers](#additional-pointers)
 
-This website is a collection of helpful information gathered by the Senios of DSAI to help you have a fruitful and enjoyable time at NTU. Feel free to add your own updates to the site as pull requests.
+This website is a collection of helpful information gathered by the Seniors of DSAI to help you have a fruitful and enjoyable time at NTU. Feel free to add your own updates to the site as pull requests.
 
 ## Installation
 
