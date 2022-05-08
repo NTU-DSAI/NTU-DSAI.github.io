@@ -46,6 +46,12 @@ The second project is more tedious as it is self driven and you have to pick a p
 
 The final for this exam does require **A LOT** of manual matrix multiplication so do get familiar with using your calculator and keying in the values. You will not have enough time to finish the paper so do strategise how you approach it. Questions for the second half of the course are more qualitative so it is easier to score there. Do also strategise which other modules you are going to take with this one as being in a project heavy semester will take up way more time than you imagine as training models is a slow process.
 
+:::warning
+
+Even though the Final Exam for this course is open book, **DO NOT PRINT ALL THE SLIDES**. You will be wasting paper, your money and your time flipping through the notes to find the piece of information you are looking for. Be smart and write down essential information on a cheatsheet **no more than 6 pages (3 sheets of paper)** and remember where the information is written. The course is called Deep _Learning_ for a reason 🤦‍♂️.
+
+:::
+
 ## Conclusion
 
 This course is a must take for all DSAI students as it teaches you all the important aspects of neural networks as well as introduces you to multiple network models that are used to solve specific problems.
