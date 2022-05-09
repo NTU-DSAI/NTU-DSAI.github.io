@@ -3,7 +3,7 @@ id: cz4071-network-science
 slug: cz4071-network-science
 sidebar_position: 21
 title: CZ4071 Network Science
-description: Learning network properties not limited to: metrics, querying, analytics, ...
+description: Learning network properties
 keywords: [network, science, ntu, scse, module, course]
 ---
 
