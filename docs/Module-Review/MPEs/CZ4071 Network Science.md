@@ -1,9 +1,9 @@
 ---
-id: cz4071-network-science
-slug: cz4071-network-science
+id: SC4022-network-science
+slug: SC4022-network-science
 sidebar_position: 21
-title: CZ4071 Network Science
-description: Learning network properties not limited to: metrics, querying, analytics, ...
+title: SC4022 Network Science
+description: Learning network properties
 keywords: [network, science, ntu, scse, module, course]
 ---
 
@@ -12,7 +12,7 @@ keywords: [network, science, ntu, scse, module, course]
 This course covers a number of topics in network science and its applications. The specific topics include network metrics, properties, and models, network querying and analytics, network dynamics, and distributed graph engines. Some example content are as follows.
 
 - Different types of network models and corresponding properties
-- Graph Mining, Matching, Partitioning, Coarsening, ...
+- Not limited to the following, Graph Mining, Matching, Partitioning, Coarsening
 
 ## Workload
 
