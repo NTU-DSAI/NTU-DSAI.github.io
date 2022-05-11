@@ -4,14 +4,7 @@ slug: isfyp
 sidebar_position: 2
 title: Industry Final Year Project
 description: Self Sourced Final Year Project in Industry
-keywords:
-  [
-    ntu,
-    final,
-    year,
-    project,
-    industry
-  ]
+keywords: [ntu, final, year, project, industry]
 ---
 
 ## Introduction
