@@ -17,9 +17,9 @@ The course offers an introduction to the variety of fundamental machine learning
 4. Artificial neural networks
 5. Support vector machines
 6. Regression models
-7. *k*-nearest neighbour classifiers
+7. _k_-nearest neighbour classifiers
 8. Ensemble learning
-9. Clustering (e.g. *k*-means, hierarchical)
+9. Clustering (e.g. _k_-means, hierarchical)
 10. Density estimation
 11. Dimensionality reduction
 
@@ -31,4 +31,8 @@ The module is not too heavy. The assessment is group project and final exam. The
 
 ## Conclusion
 
+<<<<<<< HEAD
 This course is a compulsory course for DSAI students and is definitely a useful module, especially if you have not seen the topics. Otherwise, you can treat this course as a refresher.
+=======
+This course is a compulsory course for DSAI students and is definitely a useful module, especially if you have not seen the topics. Otherwise, you can treat this course as a
+>>>>>>> 97f585bab02398743769c7a9027a38f8aee6f0e0

@@ -15,12 +15,12 @@ The course looks into methods to understand higher dimensional data. The first h
 2. Population and sample statistics
 3. Multivariate normal distribution (and related multivariate distributions)
 4. Multivariate statistical inference
-6. Multivariate analysis of variance (MANOVA)
-7. Principal component analysis (PCA)
-8. Factor analysis (FA)
-9. Discriminant analysis (DA)
-10. Clustering analysis (CA)
-11. Canonical correlation analysis (CCA)
+5. Multivariate analysis of variance (MANOVA)
+6. Principal component analysis (PCA)
+7. Factor analysis (FA)
+8. Discriminant analysis (DA)
+9. Clustering analysis (CA)
+10. Canonical correlation analysis (CCA)
 
 ## Workload and assessment
 
