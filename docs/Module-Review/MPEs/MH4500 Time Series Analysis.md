@@ -31,4 +31,4 @@ There is always an ARMA ACVF calculation question for exams, which can be tricky
 
 ## Conclusion
 
-The course is not a difficult course, so do take this course if you want a light SPMS module. With sufficient practice, you should be able to do well. The course is taught by the same instructor of [MH3510 Regression Analysis](../MH3510%20Regression%20Analysis.md) so do also take note of the teaching style before going for this course.
+The course is not a difficult course, so do take this course if you want a light SPMS module. With sufficient practice, you should be able to do well. The course is taught by the same instructor of [MH3510 Regression Analysis](MH3510%20Regression%20Analysis.md) so do also take note of the teaching style before going for this course.
