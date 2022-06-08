@@ -27,7 +27,7 @@ The emphasis of the course is not on technical depth, but rather more on exposin
 
 ## Workload and assessment
 
-The workload is one of the heaviest among all other SCSE courses. There is a wide range of topics and due to the speed of lectures, it may be difficult to follow if you have not taken the relevant course (e.g. have not taken [SC4002](../SC4002%20Natural%20Language%20Processing.md) for topic 7).
+The workload is one of the heaviest among all other SCSE courses. There is a wide range of topics and due to the speed of lectures, it may be difficult to follow if you have not taken the relevant course (e.g. have not taken [SC4002](SC4002%20Natural%20Language%20Processing.md) for topic 7).
 
 Furthermore, the coursework is also quite intense. There are 2 individual assignments and 1 group project.
 

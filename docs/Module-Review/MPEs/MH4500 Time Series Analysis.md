@@ -9,7 +9,7 @@ keywords: [time series, analysis, ntu, spms, course, module]
 
 ## Course Summary
 
-The course looks into what is a time series and techniques on how to deal with and model and time series data. This is a continuation of [MH3510 Regression Analysis](../MH3510%20Regression%20Analysis.md) where we will deal with a more specific type of data which is time series data. The topics covered in this course are:
+The course looks into what is a time series and techniques on how to deal with and model and time series data. This is a continuation of [MH3510 Regression Analysis](MH3510%20Regression%20Analysis.md) where we will deal with a more specific type of data which is time series data. The topics covered in this course are:
 
 1. Time series data and its typical components
 2. Stationarity and autocorrelation

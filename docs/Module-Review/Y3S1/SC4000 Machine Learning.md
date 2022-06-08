@@ -23,7 +23,7 @@ The course offers an introduction to the variety of fundamental machine learning
 10. Density estimation
 11. Dimensionality reduction
 
-The topics covered may already be familiar to you if you have taken other courses like [SC1015](../Y1S2/SC1015%20Introduction%20to%20Data%20Science%20and%20AI.md) and [SC4020](../SC4020%20Data%20Analytics%20and%20Mining.md). New topics unique to this course may be Bayesian belief networks, density estimation and dimensionality reduction.
+The topics covered may already be familiar to you if you have taken other courses like [SC1015](../Y1S2/SC1015%20Introduction%20to%20Data%20Science%20and%20AI.md) and [SC4020](SC4020%20Data%20Analytics%20and%20Mining.md). New topics unique to this course may be Bayesian belief networks, density estimation and dimensionality reduction.
 
 ## Workload and assessment
 
