@@ -34,7 +34,7 @@ Furthermore, the coursework is also quite intense. There are 2 individual assign
 - Assignment 2 is to create a dashboard to display the individual profiles of SCSE faculty members, performing analytics to understand each of the members' research interests. You are also required to create a faculty profile of SCSE to display the research trends within SCSE and how the faculties work together with each other.
 - Group project is to create a data product of your own choice.
 
-The coursework is heavy especially for assignment 2 and group project because these are open-ended and you do not have restrict yourself only to whatever that was taught in the course. As such, there may be some self-learning involved.
+The coursework is heavy especially for assignment 2 and group project because these are open-ended and you do not have to restrict yourself only to whatever that was taught in the course. As such, there may be some self-learning involved.
 
 ## Things to take note of
 

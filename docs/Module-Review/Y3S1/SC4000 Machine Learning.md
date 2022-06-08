@@ -31,4 +31,4 @@ The module is not too heavy. The assessment is group project and final exam. The
 
 ## Conclusion
 
-This course is a compulsory course for DSAI students and is definitely a useful module, especially if you have not seen the topics. Otherwise, you can treat this course as a
+This course is a compulsory course for DSAI students and is definitely a useful module, especially if you have not seen the topics. Otherwise, you can treat this course as a refresher.
