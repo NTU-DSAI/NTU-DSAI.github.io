@@ -17,7 +17,7 @@ The course looks into what is a time series and techniques on how to deal with a
 4. AR, MA, ARMA, ARIMA and SARIMA models
 5. Invertibility
 6. Model selection, diagnostic checking and parameter estimation
-7. GARCH models *(non-examinable)*
+7. GARCH models _(non-examinable)_
 
 ## Workload and assessment
 

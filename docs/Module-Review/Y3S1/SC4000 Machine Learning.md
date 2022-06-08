@@ -17,9 +17,9 @@ The course offers an introduction to the variety of fundamental machine learning
 4. Artificial neural networks
 5. Support vector machines
 6. Regression models
-7. *k*-nearest neighbour classifiers
+7. _k_-nearest neighbour classifiers
 8. Ensemble learning
-9. Clustering (e.g. *k*-means, hierarchical)
+9. Clustering (e.g. _k_-means, hierarchical)
 10. Density estimation
 11. Dimensionality reduction
 
