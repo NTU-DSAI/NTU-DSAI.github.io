@@ -3,6 +3,8 @@ id: sc2207-intro-to-database-systems
 slug: sc2207-intro-to-database-systems
 sidebar_position: 5
 title: SC2207 Intro to Database Systems
+description: Introductory module to relational databases
+keywords: [database, computer-science, ntu, course, scse, module]
 ---
 
 ## Course Summary
