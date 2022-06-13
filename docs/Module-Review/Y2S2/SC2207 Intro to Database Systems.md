@@ -4,7 +4,7 @@ slug: sc2207-intro-to-database-systems
 sidebar_position: 5
 title: SC2207 Intro to Database Systems
 description: Introductory module to relational databases
-keywords: [database, computer-science, ntu, course, scse, module]
+keywords: [database, computer, science, ntu, course, scse, module]
 ---
 
 ## Course Summary
@@ -12,12 +12,14 @@ keywords: [database, computer-science, ntu, course, scse, module]
 Introduction course to Database Management Systems (DBMS). Previous course code: CZ2007. Course can be broken down into two parts:
 
 First half:
+
 1. Entity Relationship (ER Diagrams)
-2. Functional Dependencies 
+2. Functional Dependencies
 3. Normalization (BCNF, 3NF)
 4. Relational Algebra
 
 Second half:
+
 1. SQL (Covers basic SQL operations such as SELECT, WHERE, JOIN, ORDER BY, EXIST, table creation/deletion/update, constraints, views/temporary views and indexes)
 2. Semi-Structured Data (XML, XML DTD, JSON, NoSQL)
 
@@ -29,9 +31,9 @@ Workload is reasonable for a 3AU module. Weekly: 2 online Q&A (1hour), 1 tutoria
 
 Lab project with 3 deliverables (In groups of 4/5 people):
 
-1.  ER Diagram (Do not overthink the ER diagram!)
-2.  Generation of Normalized Database Schema
-3.  Implementation of SQL queries for a Final demonstration
+1. ER Diagram (Do not overthink the ER diagram!)
+2. Generation of Normalized Database Schema
+3. Implementation of SQL queries for a Final demonstration
 
 ## Things to take note of
 
