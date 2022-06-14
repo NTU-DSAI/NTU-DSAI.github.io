@@ -8,6 +8,7 @@ This repository is actively seeking contributions from students. Please read thi
   - [Pull Requests](#pull-requests)
   - [Branch Naming](#branch-naming)
   - [Commit Messages](#commit-messages)
+  - [Pre-commit hook](#pre-commit-hook)
   - [Additional Pointers](#additional-pointers)
 
 ## Instructions
@@ -57,6 +58,28 @@ If you are creating a Pull Request that fixes an Issue, include the issue number
 
 ```text
 [#3] Fixed infinite loop
+```
+
+## Pre-commit hook
+
+This repository uses the `pre-commit` library to run code linting and formatting to ensure consistency of code. It uses your local `python 3.x` installation. Check out their [official website](https://pre-commit.com/) for more details.
+
+Installing `pre-commit`:
+
+```bash
+pip install pre-commit
+```
+
+Adding hook to repository:
+
+```bash
+pre-commit install
+```
+
+Running pre-commit:
+
+```bash
+pre-commit run -a
 ```
 
 ## Additional Pointers
