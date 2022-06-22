@@ -6,7 +6,7 @@
   - [Installation](#installation)
   - [Local Development](#local-development)
 
-This website is a collection of helpful information gathered by the Seniors of DSAI to help you have a fruitful and enjoyable time at NTU. Feel free to add your own updates to the site as pull requests. Refer to [Contributing.md](Contributing.md) for contribution instructions.
+This website is a collection of helpful information gathered by the Seniors of DSAI to help you have a fruitful and enjoyable time at NTU. Feel free to add your own updates to the site as pull requests. Refer to [CONTRIBUTING.md](.github/CONTRIBUTING.md) for contribution instructions.
 
 ## Installation
 
