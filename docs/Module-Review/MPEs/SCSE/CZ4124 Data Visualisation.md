@@ -1,8 +1,8 @@
 ---
-id: sc4024-data-visualisation
-slug: sc4024-data-visualisation
-sidebar_position: 20
-title: SC4024 Data Visualisation
+id: cz4124-data-visualisation
+slug: cz4124-data-visualisation
+sidebar_position: 9
+title: CZ4124 Data Visualisation
 description: Designing effective visualisations to explain data intuitively
 keywords: [data, visualisation, ntu, scse, module, course]
 ---

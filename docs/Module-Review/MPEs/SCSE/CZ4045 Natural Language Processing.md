@@ -1,8 +1,8 @@
 ---
-id: sc4002-natural-language-processing
-slug: sc4002-natural-language-processing
-sidebar_position: 13
-title: SC4002 Natural Language Processing
+id: cz4045-natural-language-processing
+slug: cz4045-natural-language-processing
+sidebar_position: 5
+title: CZ4045 Natural Language Processing
 description: Creating and understanding Natural Language Models
 keywords: [natural, language, procesisng, models, ntu, scse, module, course]
 ---
@@ -37,4 +37,4 @@ As you will need to train language models for this project, be prepared to spend
 
 ## Conclusion
 
-Overall this module is pretty fun and if you're really interested in persuing NLP in the future, it does give you a glimpse into what it is like to build and run NLP models. In my experience, you can get more practical NLP experience in [Neural Networks and Deep Learning](SC4001%20Neural%20Networks%20and%20Deep%20Learning.md) as you will be able to test your NLP skills on a real dataset and actually create Seq-2-Seq models. But this course does definitely teach you how to understand and interpret natural languages.
+Overall this module is pretty fun and if you're really interested in persuing NLP in the future, it does give you a glimpse into what it is like to build and run NLP models. In my experience, you can get more practical NLP experience in [Neural Networks and Deep Learning](CZ4042%20Neural%20Networks%20and%20Deep%20Learning.md) as you will be able to test your NLP skills on a real dataset and actually create Seq-2-Seq models. But this course does definitely teach you how to understand and interpret natural languages.

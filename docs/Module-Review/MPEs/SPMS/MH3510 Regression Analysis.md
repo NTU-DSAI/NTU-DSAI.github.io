@@ -20,7 +20,7 @@ This course aims to study the statistical relationship between predictor and res
 7. Analysis of Categorical Variance
 8. Model Selection
 
-The course starts off by teaching Simple Linear Regression, which is a topic that everyone should be familliar with given that it should be covered in [Introduction to Data Science & AI](../Y1S2/SC1015%20Introduction%20to%20Data%20Science%20and%20AI.md). It makes use of concepts learnt in [Statistics](../Y2S2/MH3500%20Statistics.md) such as parameter estimation, confidence intervals and levels of significance.
+The course starts off by teaching Simple Linear Regression, which is a topic that everyone should be familliar with given that it should be covered in [Introduction to Data Science & AI](../../Y1S2/SC1015%20Introduction%20to%20Data%20Science%20and%20AI.md). It makes use of concepts learnt in [Statistics](../../Y2S2/MH3500%20Statistics.md) such as parameter estimation, confidence intervals and levels of significance.
 
 ## Workload
 

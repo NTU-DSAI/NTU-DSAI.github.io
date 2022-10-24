@@ -10,7 +10,7 @@ Major Prescribed Electives (MPEs) are modules that pertain directly to the degre
 
 :::tip
 
-You can find the list of MPEs [here](<https://www.ntu.edu.sg/docs/librariesprovider118/ug/dsai/list-of-major-prescribed-electives-(dsai---jan-2022).pdf?sfvrsn=85833b7f_3>).
+You can find the list of MPEs [here](<https://www.ntu.edu.sg/docs/librariesprovider118/ug/dsai/dsai-cores-and-mpes-(june-2022v3).pdf?sfvrsn=7f4796c9_3>).
 
 :::
 
