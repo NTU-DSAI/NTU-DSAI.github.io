@@ -1,8 +1,8 @@
 ---
-id: sc4001-neural-networks-and-deep-learning
-slug: sc4001-neural-networks-and-deep-learning
-sidebar_position: 12
-title: SC4001 Neural Networks and Deep Learning
+id: cz4042-neural-networks-and-deep-learning
+slug: cz4042-neural-networks-and-deep-learning
+sidebar_position: 4
+title: CZ4042 Neural Networks and Deep Learning
 description: Study of various deep network systems
 keywords: [neural network, deep learning, scse, ntu, course, module]
 ---

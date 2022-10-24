@@ -1,7 +1,7 @@
 ---
 id: mh4500-time-series-analysis
 slug: mh4500-time-series-analysis
-sidebar_position: 5
+sidebar_position: 3
 title: MH4500 Time Series Analysis
 description: Developing models for time series data
 keywords: [time series, analysis, ntu, spms, course, module]

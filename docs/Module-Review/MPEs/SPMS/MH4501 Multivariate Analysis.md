@@ -1,7 +1,7 @@
 ---
 id: mh4501-multivariate-analysis
 slug: mh4501-multivariate-analysis
-sidebar_position: 6
+sidebar_position: 4
 title: MH4501 Multivariate Analysis
 description: Understanding data in higher dimensions
 keywords: [multivariate, analysis, ntu, spms, course, module]

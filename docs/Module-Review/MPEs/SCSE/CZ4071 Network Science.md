@@ -1,8 +1,8 @@
 ---
-id: sc4022-network-science
-slug: sc4022-network-science
-sidebar_position: 17
-title: SC4022 Network Science
+id: cz4071-network-science
+slug: cz4071-network-science
+sidebar_position: 7
+title: CZ4071 Network Science
 description: Learning network properties
 keywords: [network, science, ntu, scse, module, course]
 ---

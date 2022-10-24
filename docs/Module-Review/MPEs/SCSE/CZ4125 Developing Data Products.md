@@ -1,15 +1,15 @@
 ---
-id: sc4025-developing-data-products
-slug: sc4025-developing-data-products
-sidebar_position: 21
-title: SC4025 Developing Data Products
+id: cz4125-developing-data-products
+slug: cz4125-developing-data-products
+sidebar_position: 10
+title: CZ4125 Developing Data Products
 description: Developing end-to-end data products
 keywords: [development, data products, ntu, scse, course, module]
 ---
 
 ## Course Summary
 
-The course looks into the different components of developing an end-to-end data product, ranging from how data is managed to how the data product is deployed. If [SC1015](../Y1S2/SC1015%20Introduction%20to%20Data%20Science%20and%20AI.md) is a course designed to introduce data science to DSAI freshmen, this course SC4025 is designed to consolidate whatever that has been learnt over the 4 years of the DSAI curriculum.
+The course looks into the different components of developing an end-to-end data product, ranging from how data is managed to how the data product is deployed. If [Intro to Data Science](../../Y1S2/SC1015%20Introduction%20to%20Data%20Science%20and%20AI.md) is a course designed to introduce data science to DSAI freshmen, this course SC4025 is designed to consolidate whatever that has been learnt over the 4 years of the DSAI curriculum.
 
 The emphasis of the course is not on technical depth, but rather more on exposing students to how different topics that has been touched in the DSAI curriculum and different state-of-the-art tools can be brought together to build a useful data product. The topics covered in this course are:
 
@@ -27,7 +27,7 @@ The emphasis of the course is not on technical depth, but rather more on exposin
 
 ## Workload and assessment
 
-The workload is one of the heaviest among all other SCSE courses. There is a wide range of topics and due to the speed of lectures, it may be difficult to follow if you have not taken the relevant course (e.g. have not taken [SC4002](SC4002%20Natural%20Language%20Processing.md) for topic 7).
+The workload is one of the heaviest among all other SCSE courses. There is a wide range of topics and due to the speed of lectures, it may be difficult to follow if you have not taken the relevant course (e.g. have not taken [NLP](CZ4045%20Natural%20Language%20Processing.md) for topic 7).
 
 Furthermore, the coursework is also quite intense. There are 2 individual assignments and 1 group project.
 
