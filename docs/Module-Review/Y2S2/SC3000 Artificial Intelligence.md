@@ -7,7 +7,7 @@ title: SC3000 Artificial Intelligence
 
 ## Course Summary
 
-This course aims to teach about intelligent agents and decision making processes in computers. It is an abstract course about Artificial Intelligence in general rather than deep diving into various models, which is covered in [Neural Networks and Deep Learning](../MPEs/SC4001%20Neural%20Networks%20and%20Deep%20Learning.md). The topics you will cover are:
+This course aims to teach about intelligent agents and decision making processes in computers. It is an abstract course about Artificial Intelligence in general rather than deep diving into various models, which is covered in [Neural Networks and Deep Learning](../MPEs/SCSE/CZ4042%20Neural%20Networks%20and%20Deep%20Learning.md). The topics you will cover are:
 
 1. Intelligent Agents
 2. Search Algorithms
