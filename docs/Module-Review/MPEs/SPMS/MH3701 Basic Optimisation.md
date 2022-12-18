@@ -20,7 +20,7 @@ At the end of this course, students should be able to:
 3. Solve instances of minimum-cost flow problems with the network simplex method.
 4. Explain the algebra of the network simplex method.
 5. Explain the optimality of a solution to a linear program, and the infeasibility of a linear program,
-using linear programming duality.
+   using linear programming duality.
 6. Conduct sensitivity and post-optimality analysis on linear programs.
 7. Solve instances of nonlinear programs via their Karush-Kuhn-Tucker conditions.
 
