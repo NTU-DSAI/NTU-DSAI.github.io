@@ -14,28 +14,28 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This Guide was designed from the ground up to be easily used by students
+        to get the information that they need.
       </>
     ),
   },
   {
-    title: "Focus on What Matters",
+    title: "Comprehensive",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Each section contains all the information about courses, programmes and
+        FAQs that a DSAI student might need for their time in NTU.
       </>
     ),
   },
   {
-    title: "Powered by React",
+    title: "Built by Students",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This knowledge base was put together by DSAI students. If you found it
+        useful, do contribute to the repository!
       </>
     ),
   },
