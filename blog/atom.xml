@@ -9,7 +9,7 @@
     <icon>https://NTU-DSAI.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
+        <id>https://NTU-DSAI.github.io/blog/welcome</id>
         <link href="https://NTU-DSAI.github.io/blog/welcome"/>
         <updated>2022-04-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome one and all to the NTU DSAI Blog! This site was created to help current and future DSAI students by creating a single resource that everyone can refer to when it comes to anything DSAI or NTU.]]></summary>
