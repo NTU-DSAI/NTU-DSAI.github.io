@@ -15,6 +15,7 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "NTU-DSAI",
   projectName: "NTU-DSAI.github.io",
+  trailingSlash: true,
 
   presets: [
     [
