@@ -19,6 +19,12 @@ keywords:
   ]
 ---
 
+:::caution
+
+This article requires some updates as there have been changes to the programme. Please submit a pull request with the relevant changes if you find any information to be out of date.
+
+:::
+
 ## Introduction
 
 The Work Study Degree Programme (WSDeg) is a programme offered by the Career and Attachments Office (CAO) to select degree programmes and it aims to give students real world experience and the skills necessary to succeed in the workforce. It does this through Internships at partner companies over Summer and Winter breaks and an Industry Sponsored Final Year Project (ISFYP) in addition to the standard 20-week Professional Internship.
@@ -72,17 +78,25 @@ This is the final and longest block of the entire programme consisting of 2 work
 
 As this portion will overlap with your coursework, you will have to commit a minimum of 1 day a week at your company working on your FYP. Do take note to balance this with your other academic and extra-curricular commitments. You will also have internal school submissions and presentations to complete for your FYP so do take note of that.
 
-#### FYP
+#### FYP and Work Term 4
 
-<!-- TODO: Add info about what kind of FYPs students can take as well as the process of registering for one and the commitment level. -->
+Students can take any FYP project of their choice at the company as long as the company is willing to support it, it meets the needs of the company and there is sufficient depth to the project for it to sustain you for the whole year.
+You should have a discussion about this with your manager and your supervising professor in school.
 
-Coming soon.
+The module will be automatically registered on your behalf but you will have to submit a project proposal form with your manager's signature with a short write up of what are the end goals of the project as well as the deliverables.
+Once the project is accepted by the school, you will have to give your professor a detailed plan of your timelines and what you plan to achieve within those timelines.
 
-#### Work Term 4
+As mentioned previously, you will have to dedicate at least one day to the project per week but the more you can dedicate the better.
+Take note that you cannot be paid an allowance during the FYP period as you are no longer on internship.
+There is also a Work Term 4 which is a full time internship block (clarification needed if you can be paid as earlier batches did not have this).
+For Work Term 4 you will most likely just be doing your FYP as for most projects, this is the time when you would have collected your data or done up some sort of preparatory work so that you can execute the deliverable for the project.
+For ML projects, this is the time when you will start training your models and documenting the training progress.
 
-<!-- TODO: Add info about how this work term differs from the other work terms. Are you only supposed to focus on FYP or just work or both -->
+:::note
 
-Coming soon.
+Do follow any timelines and instructions given by your manager or supervising professor. The professor will be more hands off as this is an industrial project and he might not understand the full requirements of the company. However, do refer back to him frequently on updates on your work as well as for submission requirements.
+
+:::
 
 ## Conclusion
 
@@ -101,3 +115,7 @@ Overall this programme does impart a lot of relevant knowledge to students and c
 - Will I get paid for the work?
 
 > Yes! CAO sets a minimum amount that the company has to pay you but the company might have a different renumeration structure. The allowance ranges from $1.4k typically to $4k for big tech companies, the latter of which are pretty difficult to get into. However money is not the most important thing. Focus on what your career goals are and if that company can provide you the skills necessary to achieve those goals.
+
+- Will I get a return offer after working with the company for so long?
+
+> This is a topic you will have to discuss with your manager to see if he has the headcount (budget) for an additional person. Chances are that they are willing to have you on the team (if you have performed well enough) as it saves them the cost and effort of hiring a new person. Do note that their offers are not a guarantee and the situation may [change anytime](https://techcrunch.com/2023/03/22/job-listing-platform-indeed-lays-off-2200-employees/).
