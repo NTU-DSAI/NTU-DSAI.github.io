@@ -51,7 +51,8 @@ const config = {
         title: "NTU DSAI",
         logo: {
           alt: "NTU Logo",
-          src: "img/ntu-logo.svg",
+          src: "img/logo-black.svg",
+          srcDark: "img/logo-white.svg",
         },
         items: [
           {
