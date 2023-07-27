@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkntu_dsai_github_io=self.webpackChunkntu_dsai_github_io||[]).push([[1713],{3457:a=>{a.exports=JSON.parse('[{"label":"graduation","permalink":"/blog/tags/graduation","count":1},{"label":"hello","permalink":"/blog/tags/hello","count":1}]')}}]);
