@@ -36,14 +36,12 @@ Since you are not expected to have all the knowledge going into the role, your m
 2. Start looking for your internship early. It is recommended to start at least 6 months in advance as the process of applying, interviewing and the subsequent paperwork will take time. Also given the sheer number of students that will be applying for internships at the same time, HR departments will take time to sift through the applications and select the candidates that they deem fit for the role.
 
 3. Diversify your avenues to look for internships. Since inPlace only allows you to apply to ~5 companies, your best bet is to look at other job portals for possible internships. If you are looking to work at Big Tech, it is advisable to get in touch with their Recruiters over LinkedIn or during the various job fairs. Some of them can provide you with recommendation codes that they can use to expedite your application through their process. Other places that you can apply are:
-
    - Directly to the company's jobs page
    - LinkedIn Jobs
    - Glassdoor
    - MyCareersFuture
 
 4. Be prepared for the interview.
-
    - Know your interviewers ahead of time. When you are scheduled for the interview, the HR department, for the most part, will add the interviewer to the calendar invite or specifically name them in the email exchange. It should be fairly easy for you to find them on LinkedIn just to get a sensing of their background to try and understand what is it that they do and what they might be looking for in a candidate.
    - Ask questions during the interview that are relevant and not something that can be found in the job description. For example, ask questions like
      - What does it take to be successful here?
